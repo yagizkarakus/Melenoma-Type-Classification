@@ -9,7 +9,7 @@ __version__ = "0.0.0"
 REPO_NAME = "Melenoma-Type-Classification"
 AUTHOR_USER_NAME = "yagizkarakus"
 SRC_REPO = "melenomaTypeClassifier"
-AUTHOR_EMAIL = "yagizhikmetkarakus@gmai.com"
+AUTHOR_EMAIL = "yagizhikmetkarakus@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
